@@ -1,4 +1,4 @@
-package com.ethnocopia;
+package com.git;
 
 
 
